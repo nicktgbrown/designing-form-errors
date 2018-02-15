@@ -25,5 +25,5 @@ input[type="checkbox"]:invalid + label::before {
 .error-message:first-child,
 input:invalid + .error-message,
 input:invalid + label + .error-message {
-  display:block;
+  display: block;
 }
